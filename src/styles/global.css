@@ -1,0 +1,4 @@
+
+.d-f-r { display: flex; flex-direction: row; }
+.d-f-r > * { display: inline-block; }
+.d-f-r-r { margin-left: auto; }
